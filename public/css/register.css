@@ -1,0 +1,15 @@
+.register-box{
+    width: 300px;
+    margin: 0 auto;
+}
+.register-box input{
+    width: 300px;
+}
+.register-box .reg-item{
+    width: 300px;
+    margin-bottom: 20px;
+}
+.register-btn{
+    display: block;
+    margin: 0 auto;
+}
