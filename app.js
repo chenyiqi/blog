@@ -30,7 +30,7 @@ swig.setDefaults({
 
 app.use('/api', apiRouter);
 
-//路由
+//路由1
 app.get('/', function(req, res, next) {
     res.render('main');
 });
